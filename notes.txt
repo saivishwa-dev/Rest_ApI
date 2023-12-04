@@ -1,0 +1,30 @@
+step: Intializing the "npm init-y"
+
+step: Installing the express module 
+
+step: Requiring the installed (express) package
+
+step: Creating an express application
+
+step: Setting the "PORT" as "3000"
+
+step: Installing the nodemon and changing the start as "nodemon.js"
+
+step: Installing the bodyparser 
+
+step: setting up the middleware "app.use(bodyparser.json())"
+
+step: Setting up the middleware "app.use(express.json()) 
+setting this to the middleware to parse incomming requests with JSON payloads
+
+step: creating a example database 
+
+step: "Defining a route to get all the books"
+
+step: "Defining a route to get a single book"
+
+step: "Defining a route to add a new book"
+
+step: "Defining a route to update a book"
+
+step: Making the server to listen at the specified port
