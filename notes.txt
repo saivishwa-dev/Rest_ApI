@@ -1,30 +1,37 @@
-step: Intializing the "npm init-y"
+Step 1: Intializing the "npm init-y"S
 
-step: Installing the express module 
+Step 2: Installing the express module S
 
-step: Requiring the installed (express) package
+Step 3: Requiring the installed (express) packageS
 
-step: Creating an express application
+Step 4: Creating an express applicationS
 
-step: Setting the "PORT" as "3000"
+Step 5: Setting the "PORT" as "3000"S
 
-step: Installing the nodemon and changing the start as "nodemon.js"
+Step 6: Installing the nodemon and changing the start as "nodemon.js"S
 
-step: Installing the bodyparser 
+Step 7: Installing the bodyparser S
 
-step: setting up the middleware "app.use(bodyparser.json())"
+Step 8: setting up the middleware "app.use(bodyparser.json())"S
 
-step: Setting up the middleware "app.use(express.json()) 
-setting this to the middleware to parse incomming requests with JSON payloads
+Step 9: Setting up the middleware "app.use(express.json()) 
 
-step: creating a example database 
+Setting this to the middleware to parse incomming requests with JSON payloadsS
 
-step: "Defining a route to get all the books"
+Step 10: creating a example database S
 
-step: "Defining a route to get a single book"
+Step 11: "Defining a GET route to get all the books"S
 
-step: "Defining a route to add a new book"
+Step 12: "Defining a GET route to get a single book"S
 
-step: "Defining a route to update a book"
+Step 13: "Defining a POST route to add a new book"S
 
-step: Making the server to listen at the specified port
+Step 14: "Defining a PUT route to update a book"S
+
+Step 15: "Defining a PATCH route to update minor mistakes in the detailsS
+
+Stpe 16: "Defining a DELETE route to delete a detailS
+
+Step 17: Making the server to listen at the specified port 3000S
+
+Step 18:  Testing each and every route in postman 
